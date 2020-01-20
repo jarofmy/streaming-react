@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "initial stream",
+      "id": 1
+    },
+    {
+      "title": "chopper's stream",
+      "description": "reindeer life",
+      "userId": "110433488301758468473",
+      "id": 2
+    },
+    {
+      "title": "new stream edited",
+      "description": "third stream edited",
+      "userId": "110433488301758468473",
+      "id": 3
+    }
+  ]
+}
